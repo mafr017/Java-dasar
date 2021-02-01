@@ -7,5 +7,6 @@
 5. Tipe Data Character
 6. Tipe Data Boolean
 7. Variable
+8. Kata Kunci Final
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
