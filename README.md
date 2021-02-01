@@ -8,5 +8,6 @@
 6. Tipe Data Boolean
 7. Variable
 8. Kata Kunci Final
+9. Tipe Data Bukan Primitif
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
