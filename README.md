@@ -11,5 +11,6 @@
 9. Tipe Data Bukan Primitif
 10. Tipe Data Array
 11. Multidimension Array
+12. Operasi Matematika & Perbandingan
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
