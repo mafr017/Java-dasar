@@ -5,6 +5,7 @@
 3. Tipe Data Literals
 4. Konversi Tipe Data Number
 5. Tipe Data Character
-8. Tipe Data Boolean
+6. Tipe Data Boolean
+7. Variable
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)

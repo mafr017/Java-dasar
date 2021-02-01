@@ -5,6 +5,6 @@ public class TipeDataBoolean {
         boolean salah = false;
         System.out.println(benar);
         System.out.println(salah);
-        
+
     }
 }
