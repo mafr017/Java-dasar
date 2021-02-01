@@ -9,5 +9,6 @@
 7. Variable
 8. Kata Kunci Final
 9. Tipe Data Bukan Primitif
+10. Tipe Data Array
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
