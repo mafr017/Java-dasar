@@ -12,5 +12,6 @@
 10. Tipe Data Array
 11. Multidimension Array
 12. Operasi Matematika & Perbandingan
+13. Expression Statement Block
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
