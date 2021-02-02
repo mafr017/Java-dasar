@@ -18,5 +18,6 @@
 16. Ternary Operator
 17. Perulangan (For & While)
 18. Break & Continue
+19. For Each 
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
