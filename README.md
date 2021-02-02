@@ -17,5 +17,6 @@
 15. Switch Lambda
 16. Ternary Operator
 17. Perulangan (For & While)
+18. Break & Continue
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
