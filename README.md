@@ -20,5 +20,6 @@
 18. Break & Continue
 19. For Each 
 20. Method
+21. Method Variable Argument
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
