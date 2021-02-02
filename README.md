@@ -13,6 +13,7 @@
 11. Multidimension Array
 12. Operasi Matematika & Perbandingan
 13. Expression Statement Block
-14. Control Flow
+14. Control Flow (If & Switch)
+15. Switch Lambda
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
