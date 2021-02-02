@@ -15,5 +15,6 @@
 13. Expression Statement Block
 14. Control Flow (If & Switch)
 15. Switch Lambda
+16. Ternary Operator
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
