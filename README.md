@@ -19,5 +19,6 @@
 17. Perulangan (For & While)
 18. Break & Continue
 19. For Each 
+20. Method
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
