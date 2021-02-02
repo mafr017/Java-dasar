@@ -22,5 +22,6 @@
 20. Method
 21. Method Variable Argument
 22. Method Overloading
+23. Recursive Method 
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
