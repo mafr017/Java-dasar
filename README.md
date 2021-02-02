@@ -16,5 +16,6 @@
 14. Control Flow (If & Switch)
 15. Switch Lambda
 16. Ternary Operator
+17. Perulangan (For & While)
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
